@@ -1,5 +1,5 @@
 # World-Population-Data-Visulaization-with-Python
-Its a Predictive Analytics Project using python
+Its a Predictive Analytics Project for machine learning using python
 
 DATA DESCRIPTION
 
